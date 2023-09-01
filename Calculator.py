@@ -3,7 +3,7 @@ from colorama import Fore, Back, Style
 # Use Colorama to work on Windows
 init()
 
-# Simple Calculator
+# Simple Calculator v1
 print(Back.GREEN)
 print(Fore.BLACK)
 what = input("What should we do (+, -, *, /): ")
