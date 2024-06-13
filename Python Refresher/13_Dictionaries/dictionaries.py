@@ -44,3 +44,6 @@ print("Getting only values back without worrying about the keys")
 # "Getting only values back without worrying about the keys"
 attendance_values = student_attendance.values()
 print(attendance_values / len(attendance_values)) # Expected sum divided for length of dictionary which is 3 in our case
+
+# ""
+
